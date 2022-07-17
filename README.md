@@ -1,4 +1,4 @@
-![Python Course](https://i.ibb.co/X45m2Pk/py.png)
+![Python Course](https://i.ibb.co/ggSVcwm/python.png)
 
 # Python Course From [Elzero Web School](https://elzero.org/)
 
@@ -28,9 +28,9 @@
 
 -   `Watched` - 002 => [What I Need ?](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2001/002%20-%20What%20I%20Need.py)
 
--   `Watched` - 003 => [Syntax And Your First App](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2001/003%20-%20Syntax&And%20First%20App.py)
+-   `Watched` - 003 => [Syntax & Your First App](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2001/003%20-%20Syntax%20%26%20Your%20First%20App.py)
 
--   `Watched` - 004 => [Comments](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2001/00420-%20Comments.py)
+-   `Watched` - 004 => [Comments](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2001/004%20-%20Comments.py)
 
 -   `Watched` - 005 => [Dealing With Data In Python](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2001/005%20-%20Dealing%20With%20Data%20In%20Python.py)
 
@@ -70,29 +70,29 @@
 
 -   `Watched` - 021 => [List](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2003/021%20-%20List.py)
 
--   `Watched` - 022 => [List - Methods - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2003/022%20-%20List%20-%20Methods%20-%20Part%201.py)
+-   `Watched` - 022 => [List - Methods - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2003/022%20-%20List%20-%20Methods%20-%20Part%2001.py)
 
--   `Watched` - 023 => [List - Methods - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2003/023%20-%20List%20-%20Methods%20-%20Part%202.py)
+-   `Watched` - 023 => [List - Methods - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2003/023%20-%20List%20-%20Methods%20-%20Part%2002.py)
 
--   `Watched` - 024 => [Tuple - Methods - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2003/024%20-%20Tuple%20-%20Methods%20-%20Part%201.py)
+-   `Watched` - 024 => [Tuple - Methods - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2003/024%20-%20Tuple%20-%20Methods%20-%20Part%2001.py)
 
--   `Watched` - 025 => [Tuple - Methods - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2003/025%20-%20Tuple%20-%20Methods%20-%20Part%202.py)
+-   `Watched` - 025 => [Tuple - Methods - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2003/025%20-%20Tuple%20-%20Methods%20-%20Part%2002.py)
 
 ### Week 04
 
 -   `Watched` - 026 => [Set](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/026%20-%20Set.py)
 
--   `Watched` - 027 => [Set - Methods - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/027%20-%20Set%20-%20Methods%20-%20Part%201.py)
+-   `Watched` - 027 => [Set - Methods - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/027%20-%20Set%20-%20Methods%20-%20Part%2001.py)
 
--   `Watched` - 028 => [Set - Methods - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/028%20-%20Set%20-%20Methods%20-%20Part%202.py)
+-   `Watched` - 028 => [Set - Methods - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/028%20-%20Set%20-%20Methods%20-%20Part%2002.py)
 
--   `Watched` - 029 => [Set - Methods - Part 03](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/029%20-%20Set%20-%20Methods%20-%20Part%203.py)
+-   `Watched` - 029 => [Set - Methods - Part 03](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/029%20-%20Set%20-%20Methods%20-%20Part%2003.py)
 
 -   `Watched` - 030 => [Dictionary](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/030%20-%20Dictionary.py)
 
--   `Watched` - 031 => [Dictionary - Methods - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/031%20-%20Dictionary%20-%20Methods%20-%20Part%201.py)
+-   `Watched` - 031 => [Dictionary - Methods - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/031%20-%20Dictionary%20-%20Methods%20-%20Part%2001.py)
 
--   `Watched` - 032 => [Dictionary - Methods - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/032%20-%20Dictionary%20-%20Methods%20-%20Part%202.py)
+-   `Watched` - 032 => [Dictionary - Methods - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2004/032%20-%20Dictionary%20-%20Methods%20-%20Part%2002.py)
 
 ### Week 05
 
@@ -128,23 +128,23 @@
 
 ### Week 07
 
--   `Watched` - 047 => [Loop - Part 01 - While - Else](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/047%20-%20Loop%20-%20Part%20-%2001%20-%20While%20-%20Else.py)
+-   `Watched` - 047 => [Loop - Part 01 - While - Else](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/047%20-%20Loop%20-%20Part%2001%20-%20While%20-%20Else.py)
 
--   `Watched` - 048 => [Loop - Part 02 - While - Training - Printing Friends](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/048%20-%20Loop%20-%20Part%20-%2002%20-%20While%20-%20Training%20-%20Printing%20Friends.py)
+-   `Watched` - 048 => [Loop - Part 02 - While - Training - Printing Friends](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/048%20-%20Loop%20-%20Part%2002%20-%20While%20-%20Training%20-%20Printing%20Friends.py)
 
--   `Watched` - 049 => [Loop - Part 03 - While - Training - Bookmarks Manager](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/049%20-%20Loop%20-%20Part%20-%2003%20-%20While%20-%20Training%20-%20Bookmarks%20Manager.py)
+-   `Watched` - 049 => [Loop - Part 03 - While - Training - Bookmarks Manager](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/049%20-%20Loop%20-%20Part%2003%20-%20While%20-%20Training%20-%20Bookmarks%20Manager.py)
 
--   `Watched` - 050 => [Loop - Part 04 - While - Training - Password Checker](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/050%20-%20Loop%20-%20Part%20-%2004%20-%20While%20-%20Training%20-%20Password%20Checker.py)
+-   `Watched` - 050 => [Loop - Part 04 - While - Training - Password Checker](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/050%20-%20Loop%20-%20Part%2004%20-%20While%20-%20Training%20-%20Password%20Checker.py)
 
--   `Watched` - 051 => [Loop - Part 05 - For - Else](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/051%20-%20Loop%20-%20Part%20-%2005%20-%20For%20-%20Else.py)
+-   `Watched` - 051 => [Loop - Part 05 - For - Else](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/051%20-%20Loop%20-%20Part%2005%20-%20For%20-%20Else.py)
 
--   `Watched` - 052 => [Loop - Part 06 - For - Training](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/052%20-%20Loop%20-%20Part%20-%2006%20-%20For%20-%20Training.py)
+-   `Watched` - 052 => [Loop - Part 06 - For - Training](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/052%20-%20Loop%20-%20Part%2006%20-%20For%20-%20Training.py)
 
--   `Watched` - 053 => [Loop - Part 07 - For - Nested Loop](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/053%20-%20Loop%20-%20Part%20-%2007%20-%20For%20-%20Nested%20Loop.py)
+-   `Watched` - 053 => [Loop - Part 07 - For - Nested Loop](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/053%20-%20Loop%20-%20Part%2007%20-%20For%20-%20Nested%20Loop.py)
 
--   `Watched` - 054 => [Loop - Part 08 - Break & Continue & Pass](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/054%20-%20Loop%20-%20Part%20-%2008%20-%20Break%20%26%20Continue%20%26%20Pass.py)
+-   `Watched` - 054 => [Loop - Part 08 - Break & Continue & Pass](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/054%20-%20Loop%20-%20Part%2008%20-%20Break%20%26%20Continue%20%26%20Pass.py)
 
--   `Watched` - 055 => [Loop - Part 09 - Advanced Directory](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/055%20-%20Loop%20-%20Part%20-%2009%20-%20Advanced%20Dictionary.py)
+-   `Watched` - 055 => [Loop - Part 09 - Advanced Directory](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2007/055%20-%20Loop%20-%20Part%2009%20-%20Advanced%20Dictionary.py)
 
 ### Week 08
 
@@ -172,25 +172,25 @@
 
 -   `Watched` - 066 => [File Handling - Part 02 - Read File](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2009/066%20-%20File%20Handling%20-%20Part%2002%20-%20Read%20File.py)
 
--   `Watched` - 067 => [File Handling - Part 03 - Write & Append In File](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2009/067%20-%20File%20Handling%20-%20Part%2003%20-%20Write%20%26%20Append%20In%20File.py)
+-   `Watched` - 067 => [File Handling - Part 03 - Write & Append In File](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2009/067%20-%20File%20Handling%20-%20Part%2003%20-%20Write%20%26%20Append%20in%20File.py)
 
 -   `Watched` - 068 => [File Handling - Part 04 - Important Information](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2009/068%20-%20File%20Handling%20-%20Part%2004%20-%20Important%20Information.py)
 
 ### Week 10
 
--   `Watched` - 069 => [Built-In Functions - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/069%20-%20Built-In%20Functions%20-%20Part%20-01.py)
+-   `Watched` - 069 => [Built-In Functions - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/069%20-%20Built-In%20Functions%20-%20Part%2001.py)
 
--   `Watched` - 070 => [Built-In Functions - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/070%20-%20Built-In%20Functions%20-%20Part%20-02.py)
+-   `Watched` - 070 => [Built-In Functions - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/070%20-%20Built-In%20Functions%20-%20Part%2002.py)
 
--   `Watched` - 071 => [Built-In Functions - Part 03](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/071%20-%20Built-In%20Functions%20-%20Part%20-03.py)
+-   `Watched` - 071 => [Built-In Functions - Part 03](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/071%20-%20Built-In%20Functions%20-%20Part%2003.py)
 
--   `Watched` - 072 => [Built-In Functions - Part 04 - Map](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/072%20-%20Built-In%20Functions%20-%20Part%20-04%20-%20Map.py)
+-   `Watched` - 072 => [Built-In Functions - Part 04 - Map](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/072%20-%20Built-In%20Functions%20-%20Part%2004%20-%20Map.py)
 
--   `Watched` - 073 => [Built-In Functions - Part 05 - Filter](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/073%20-%20Built-In%20Functions%20-%20Part%20-05%20-%20Filter.py)
+-   `Watched` - 073 => [Built-In Functions - Part 05 - Filter](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/073%20-%20Built-In%20Functions%20-%20Part%2005%20-%20Filter.py)
 
--   `Watched` - 074 => [Built-In Functions - Part 06 - Reduce](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/074%20-%20Built-In%20Functions%20-%20Part%20-06%20-%20Reduce.py)
+-   `Watched` - 074 => [Built-In Functions - Part 06 - Reduce](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/074%20-%20Built-In%20Functions%20-%20Part%2006%20-%20Reduce.py)
 
--   `Watched` - 075 => [Built-In Functions - Part 07](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/075%20-%20Built-In%20Functions%20-%20Part%20-07.py)
+-   `Watched` - 075 => [Built-In Functions - Part 07](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2010/075%20-%20Built-In%20Functions%20-%20Part%2007.py)
 
 ### Week 11
 
@@ -200,9 +200,9 @@
 
 -   `Watched` - 078 => [Modules - Part 03 - Install External Packages](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/078%20-%20Modules%20-%20Part%2003%20-%20Install%20External%20Packages.py)
 
--   `Watched` - 079 => [Date & Time - Part 01 - Introduction](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/079%20-%20Date%20%26%20Time%20-%20Part%2003%20-%20Introduction.py)
+-   `Watched` - 079 => [Date & Time - Part 01 - Introduction](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/079%20-%20Date%20%26%20Time%20-%20Part%2001%20-%20Introduction.py)
 
--   `Watched` - 080 => [Date & Time - Part 02 - Formatting Date](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/080%20-%20Date%20%26%20Time%20-%20Part%2002%20-%20formatting%20Date.py)
+-   `Watched` - 080 => [Date & Time - Part 02 - Formatting Date](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/080%20-%20Date%20%26%20Time%20-%20Part%2002%20-%20Formatting%20Date.py)
 
 -   `Watched` - 081 => [Iterable vs Iterator](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/081%20-%20Iterable%20vs%20Iterator.py)
 
@@ -210,7 +210,7 @@
 
 -   `Watched` - 083 => [Decorators - Part 01 - Introduction](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/083%20-%20Decorators%20-%20Part%2001%20-%20Introduction.py)
 
--   `Watched` - 084 => [Decorators - Part 02 - Function With Parameters](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/084%20-%20Decorators%20-%20Part%2002%20-%20Function%20With%20Parameters.py)
+-   `Watched` - 084 => [Decorators - Part 02 - Function With Parameters](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/084%20-%20Decorators%20-%20Part%2002%20-%20Function%20with%20Parameters.py)
 
 -   `Watched` - 085 => [Decorators - Part 03 - Speed Test - Practical](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2011/085%20-%20Decorators%20-%20Part%2003%20-%20Speed%20Test%20-%20Practical.py)
 
@@ -236,21 +236,21 @@
 
 ### Week 13
 
--   `Watched` - 095 => [Regular Expressions - Part 01 - Introduction](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/095%20-%20Regular%20Expressions%20-%20Part%20-%2001%20-%20Introdution.py)
+-   `Watched` - 095 => [Regular Expressions - Part 01 - Introduction](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/095%20-%20Regular%20Expressions%20-%20Part%2001%20-%20Introduction.py)
 
--   `Watched` - 096 => [Regular Expressions - Part 02 - Quantifiers](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/096%20-%20Regular%20Expressions%20-%20Part%20-%2002%20-%20Quantifiers.py)
+-   `Watched` - 096 => [Regular Expressions - Part 02 - Quantifiers](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/096%20-%20Regular%20Expressions%20-%20Part%2002%20-%20Quantifiers.py)
 
--   `Watched` - 097 => [Regular Expressions - Part 03 - Characters Classes Training](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/097%20-%20Regular%20Expressions%20-%20Part%20-%2003%20-%20Characters%20Classes%20Training.py)
+-   `Watched` - 097 => [Regular Expressions - Part 03 - Characters Classes Training](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/097%20-%20Regular%20Expressions%20-%20Part%2003%20-%20Characters%20Classes%20Training.py)
 
--   `Watched` - 098 => [Regular Expressions - Part 04 - Assertions & Email Pattern](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/098%20-%20Regular%20Expressions%20-%20Part%20-%2004%20-%20Assertions%20%26%20Email%20Pattern.py)
+-   `Watched` - 098 => [Regular Expressions - Part 04 - Assertions & Email Pattern](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/098%20-%20Regular%20Expressions%20-%20Part%2004%20-%20Assertions%20%26%20Email%20Pattern.py)
 
--   `Watched` - 099 => [Regular Expressions - Part 05 - Logical Or & Escaping](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/099%20-%20Regular%20Expressions%20-%20Part%20-%2005%20-%20Logical%20Or%20%26%20Escaping.py)
+-   `Watched` - 099 => [Regular Expressions - Part 05 - Logical Or & Escaping](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/099%20-%20Regular%20Expressions%20-%20Part%2005%20-%20Logical%20Or%20%26%20Escaping.py)
 
--   `Watched` - 100 => [Regular Expressions - Part 06 - re Module Search & FindAll](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/100%20-%20Regular%20Expressions%20-%20Part%20-%2006%20-%20re%20Module%20Search%20%26%20FindAll.py)
+-   `Watched` - 100 => [Regular Expressions - Part 06 - re Module Search & FindAll](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/100%20-%20Regular%20Expressions%20-%20Part%2006%20-%20re%20Module%20Search%20%26%20FindAll.py)
 
--   `Watched` - 101 => [Regular Expressions - Part 07 - re Module Split & Sub](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/101%20-%20Regular%20Expressions%20-%20Part%20-%2007%20-%20re%20Module%20Split%20%26%20Sub.py)
+-   `Watched` - 101 => [Regular Expressions - Part 07 - re Module Split & Sub](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/101%20-%20Regular%20Expressions%20-%20Part%2007%20-%20re%20Module%20Split%20%26%20Sub.py)
 
--   `Watched` - 102 => [Regular Expressions - Part 08 - Group Training & Flags](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/102%20-%20Regular%20Expressions%20-%20Part%20-%2008%20-%20Group%20Training%20%26%20Flags.py)
+-   `Watched` - 102 => [Regular Expressions - Part 08 - Group Training & Flags](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2013/102%20-%20Regular%20Expressions%20-%20Part%2008%20-%20Group%20Training%20%26%20Flags.py)
 
 ### Week 14
 
@@ -270,7 +270,7 @@
 
 -   `Watched` - 110 => [OOP - Part 08 - Inheritance](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2014/110%20-%20OOP%20-%20Part%2008%20-%20Inheritance.py)
 
--   `Watched` - 111 => [OOP - Part 09 - Multiple Inheritance & Method Overriding](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2014/111%20-%20OOP%20-%20Part%2009%20-%20Multiple%20Inheritance%20%26%20Method%20Overriding.py)
+-   `Watched` - 111 => [OOP - Part 09 - Multiple Inheritance & Method Overriding](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2014/111%20-%20OOP%20-%20Part%2009%20-%20Multiple%20Inheritance%20%20%26%20Method%20Overriding.py)
 
 -   `Watched` - 112 => [OOP - Part 10 - Polymorphism](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2014/112%20-%20OOP%20-%20Part%2010%20-%20Polymorphism.py)
 
@@ -284,27 +284,27 @@
 
 ### Week 15
 
--   `Watched` - 117 => [Database - Part 01 - Introduction](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/117%20-%20Database%20Part%-%2001%20-%20Introduction.py)
+-   `Watched` - 117 => [Database - Part 01 - Introduction](hhttps://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/117%20-%20Database%20-%20Part%2001%20-%20Introduction.py)
 
--   `Watched` - 118 => [Database - Part 02 - SQLite - Create Database & Connect](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/118%20-%20Database%20Part%-%2002%20-%20SQLite%20-%20Create%20Database%20%26%20Connect.py)
+-   `Watched` - 118 => [Database - Part 02 - SQLite - Create Database & Connect](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/118%20-%20Database%20-%20Part%2002%20-%20SQLite%20-%20Create%20Database%20%26%20Connect.py)
 
--   `Watched` - 119 => [Database - Part 03 - SQLite - Insert Data Into Database](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/119%20-%20Database%20Part%-%2003%20-%20SQLite%20-%20Insert%20Data%20Into%20Database.py)
+-   `Watched` - 119 => [Database - Part 03 - SQLite - Insert Data Into Database](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/119%20-%20Database%20-%20Part%2003%20-%20SQLite%20-%20Insert%20Data%20Into%20Database.py)
 
--   `Watched` - 120 => [Database - Part 04 - SQLite - Retrieve Data From Database](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/120%20-%20Database%20Part%-%2004%20-%20SQLite%20-%20Retrieve%20Data%20From%20Database.py)
+-   `Watched` - 120 => [Database - Part 04 - SQLite - Retrieve Data From Database](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/120%20-%20Database%20-%20Part%2004%20-%20SQLite%20-%20Retrieve%20Data%20From%20Database.py)
 
--   `Watched` - 121 => [Database - Part 05 - SQLite - Training On Everything](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/121%20-%20Database%20Part%-%2005%20-%20SQLite%20-%20Training%20On%20Everything.py)
+-   `Watched` - 121 => [Database - Part 05 - SQLite - Training On Everything](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/121%20-%20Database%20-%20Part%2005%20-%20SQLite%20-%20Training%20On%20Everything.py)
 
--   `Watched` - 122 => [Database - Part 06 - SQLite - Update & Delete From Database](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/122%20-%20Database%20Part%-%2006%20-%20SQLite%20-%20Update%20%26%20Delete%20From%20Database.py)
+-   `Watched` - 122 => [Database - Part 06 - SQLite - Update & Delete From Database](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/122%20-%20Database%20-%20Part%2006%20-%20SQLite%20-%20Update%20%26%20Delete%20From%20Database.py)
 
--   `Watched` - 123 => [Database - Part 07 - SQLite - Create Skills App - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/123%20-%20Database%20Part%-%2007%20-%20SQLite%20-%20Create%20Skills%20App%20Part%20-%2001.py)
+-   `Watched` - 123 => [Database - Part 07 - SQLite - Create Skills App - Part 01](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/123%20-%20Database%20-%20Part%2007%20-%20SQLite%20-%20Create%20Skills%20App%20-%20Part%2001.py)
 
--   `Watched` - 124 => [Database - Part 08 - SQLite - Create Skills App - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/124%20-%20Database%20Part%-%2008%20-%20SQLite%20-%20Create%20Skills%20App%20Part%20-%2002.py)
+-   `Watched` - 124 => [Database - Part 08 - SQLite - Create Skills App - Part 02](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/124%20-%20Database%20-%20Part%2008%20-%20SQLite%20-%20Create%20Skills%20App%20-%20Part%2002.py)
 
--   `Watched` - 125 => [Database - Part 09 - SQLite - Create Skills App - Part 03](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/125%20-%20Database%20Part%-%2009%20-%20SQLite%20-%20Create%20Skills%20App%20Part%20-%2003.py)
+-   `Watched` - 125 => [Database - Part 09 - SQLite - Create Skills App - Part 03](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/125%20-%20Database%20-%20Part%2009%20-%20SQLite%20-%20Create%20Skills%20App%20-%20Part%2003.py)
 
--   `Watched` - 126 => [Database - Part 10 - SQLite - Create Skills App - Part 04](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/126%20-%20Database%20Part%-%2010%20-%20SQLite%20-%20Create%20Skills%20App%20Part%20-%2004.py)
+-   `Watched` - 126 => [Database - Part 10 - SQLite - Create Skills App - Part 04](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/126%20-%20Database%20-%20Part%2010%20-%20SQLite%20-%20Create%20Skills%20App%20-%20Part%2004.py)
 
--   `Watched` - 127 => [Database - Part 11 - SQLite - Very Important Information](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/127%20-%20Database%20Part%-%2011%20-%20SQLite%20-%20Very%20Important%20Information.py)
+-   `Watched` - 127 => [Database - Part 11 - SQLite - Very Important Information](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/127%20-%20Database%20-%20Part%2011%20-%20SQLite%20-%20Very%20Important%20Information.py)
 
 <!--
 ### Week 16
@@ -400,7 +400,7 @@
 
 -   `Solved` - Built-In Functions => [Assignments For Lessons From [ 069 ] To [ 071 ]](https://elzero.org/python-assignments-lesson-from-69-to-71/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20069%20%5D%20To%20%5B%20071%20%5D)
 
--   `Solved` - Map & Filter & Reduce => [Assignments For Lessons From [ 072 ] To [ 075 ]](https://elzero.org/python-assignments-lesson-from-72-to-75/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20072%20%5D%20To%20%5B%20075%20%5D)
+-   `Solved` - Map & Filter & Reduce => [Assignments For Lessons From [ 072 ] To [ 075 ]](https://elzero.org/python-assignments-lesson-from-72-to-75/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20072%5D%20To%20%5B%20075%20%5D)
 
 -   `Solved` - Modules & Packages => [Assignments For Lessons From [ 076 ] To [ 078 ]](https://elzero.org/python-assignments-lesson-from-76-to-78/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20076%20%5D%20To%20%5B%20078%20%5D)
 
@@ -408,9 +408,9 @@
 
 -   `Solved` - Generators & Decorators => [Assignments For Lessons From [ 081 ] To [ 085 ]](https://elzero.org/python-assignments-lesson-from-81-to-85/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20081%20%5D%20To%20%5B%20085%20%5D)
 
--   `Solved` - Collection Of Modules => [Assignments For Lessons From [ 086 ] To [ 089 ]](https://elzero.org/python-assignments-lesson-from-86-to-89/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20086%20%5D%20To%20%5B%2008910%20%5D)
+-   `Solved` - Collection Of Modules => [Assignments For Lessons From [ 086 ] To [ 089 ]](https://elzero.org/python-assignments-lesson-from-86-to-89/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20086%20%5D%20To%20%5B%20089%20%5D)
 
--   `Solved` - Error Handling & Debugging => [Assignments For Lessons From [ 090 ] To [ 094 ]](https://elzero.org/python-assignments-lesson-from-90-to-94/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20090%20%5D%20To%20%5B%2001094%20%5D)
+-   `Solved` - Error Handling & Debugging => [Assignments For Lessons From [ 090 ] To [ 094 ]](https://elzero.org/python-assignments-lesson-from-90-to-94/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20090%20%5D%20To%20%5B%20094%20%5D)
 
 -   `Solved` - Regular Expressions => [Assignments For Lessons From [ 095 ] To [ 102 ]](https://elzero.org/python-assignments-lesson-from-95-to-102/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20095%20%5D%20To%20%5B%20102%20%5D)
 
