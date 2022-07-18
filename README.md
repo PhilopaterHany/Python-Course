@@ -372,53 +372,32 @@
 
 ## Assignments
 
--   `Solved` - Introduction & Variables => [Assignments For Lessons From [ 001 ] To [ 010 ]](https://elzero.org/python-assignments-lesson-from-1-to-10/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20001%20%5D%20To%20%5B%20010%20%5D)
-
--   `Solved` - String & Methods => [Assignments For Lessons From [ 011 ] To [ 018 ]](https://elzero.org/python-assignments-lesson-from-11-to-18/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20011%20%5D%20To%20%5B%20018%20%5D)
-
--   `Solved` - Numbers & Arithmetic Operators => [Assignments For Lessons From [ 019 ] To [ 020 ]](https://elzero.org/python-assignments-lesson-from-19-to-20/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20019%20%5D%20To%20%5B%20020%20%5D)
-
--   `Solved` - List & Its Methods => [Assignments For Lessons From [ 021 ] To [ 023 ]](https://elzero.org/python-assignments-lesson-from-21-to-23/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20021%20%5D%20To%20%5B%20023%20%5D)
-
--   `Solved` - Tuple & Its Methods => [Assignments For Lessons From [ 024 ] To [ 025 ]](https://elzero.org/python-assignments-lesson-from-24-to-25/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20024%20%5D%20To%20%5B%20025%20%5D)
-
--   `Solved` - Set & Dictionary & Their Methods => [Assignments For Lessons From [ 026 ] To [ 032 ]](https://elzero.org/python-assignments-lesson-from-26-to-32/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20026%20%5D%20To%20%5B%20032%20%5D)
-
--   `Solved` - Operators & Type Conversion => [Assignments For Lessons From [ 033 ] To [ 037 ]](https://elzero.org/python-assignments-lesson-from-33-to-37/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20033%20%5D%20To%20%5B%20037%20%5D)
-
--   `Solved` - User Input & Practice => [Assignments For Lessons From [ 038 ] To [ 040 ]](https://elzero.org/python-assignments-lesson-from-38-to-40/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20038%20%5D%20To%20%5B%20040%20%5D)
-
--   `Solved` - Control Flow => [Assignments For Lessons From [ 041 ] To [ 046 ]](https://elzero.org/python-assignments-lesson-from-41-to-46/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20041%20%5D%20To%20%5B%20046%20%5D)
-
--   `Solved` - While Loop & Training => [Assignments For Lessons From [ 047 ] To [ 050 ]](https://elzero.org/python-assignments-lesson-from-47-to-50/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20047%20%5D%20To%20%5B%20050%20%5D)
-
--   `Solved` - For Loop & Training => [Assignments For Lessons From [ 051 ] To [ 055 ]](https://elzero.org/python-assignments-lesson-from-51-to-55/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20051%20%5D%20To%20%5B%20055%20%5D)
-
--   `Solved` - Functions => [Assignments For Lessons From [ 056 ] To [ 059 ]](https://elzero.org/python-assignments-lesson-from-56-to-59/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20056%20%5D%20To%20%5B%20059%20%5D)
-
--   `Solved` - Packing & Recursion & Lambda => [Assignments For Lessons From [ 060 ] To [ 064 ]](https://elzero.org/python-assignments-lesson-from-60-to-64/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20060%20%5D%20To%20%5B%20064%20%5D)
-
--   `Solved` - Files Handling => [Assignments For Lessons From [ 065 ] To [ 068 ]](https://elzero.org/python-assignments-lesson-from-65-to-68/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20065%20%5D%20To%20%5B%20068%20%5D)
-
--   `Solved` - Built-In Functions => [Assignments For Lessons From [ 069 ] To [ 071 ]](https://elzero.org/python-assignments-lesson-from-69-to-71/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20069%20%5D%20To%20%5B%20071%20%5D)
-
--   `Solved` - Map & Filter & Reduce => [Assignments For Lessons From [ 072 ] To [ 075 ]](https://elzero.org/python-assignments-lesson-from-72-to-75/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20072%5D%20To%20%5B%20075%20%5D)
-
--   `Solved` - Modules & Packages => [Assignments For Lessons From [ 076 ] To [ 078 ]](https://elzero.org/python-assignments-lesson-from-76-to-78/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20076%20%5D%20To%20%5B%20078%20%5D)
-
--   `Solved` - Date & Time => [Assignments For Lessons From [ 079 ] To [ 080 ]](https://elzero.org/python-assignments-lesson-from-79-to-80/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20079%20%5D%20To%20%5B%20080%20%5D)
-
--   `Solved` - Generators & Decorators => [Assignments For Lessons From [ 081 ] To [ 085 ]](https://elzero.org/python-assignments-lesson-from-81-to-85/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20081%20%5D%20To%20%5B%20085%20%5D)
-
--   `Solved` - Collection Of Modules => [Assignments For Lessons From [ 086 ] To [ 089 ]](https://elzero.org/python-assignments-lesson-from-86-to-89/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20086%20%5D%20To%20%5B%20089%20%5D)
-
--   `Solved` - Error Handling & Debugging => [Assignments For Lessons From [ 090 ] To [ 094 ]](https://elzero.org/python-assignments-lesson-from-90-to-94/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20090%20%5D%20To%20%5B%20094%20%5D)
-
--   `Solved` - Regular Expressions => [Assignments For Lessons From [ 095 ] To [ 102 ]](https://elzero.org/python-assignments-lesson-from-95-to-102/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20095%20%5D%20To%20%5B%20102%20%5D)
-
--   `Solved` - Object Oriented Programming => [Assignments For Lessons From [ 103 ] To [ 116 ]](https://elzero.org/python-assignments-lesson-from-103-to-116/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20103%20%5D%20To%20%5B%20116%20%5D)
-
--   `Solved` - SQLite Database => [Assignments For Lessons From [ 117 ] To [ 127 ]](https://elzero.org/python-assignments-lesson-from-117-to-127/) => [Solution](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20117%20%5D%20To%20%5B%20127%20%5D)
+|  Status  |                                                    Assignment                                                    |              Topic               |                                                                    Solution                                                                    |
+| :------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| `Solved` |  [Assignments For Lessons From [ 001 ] To [ 010 ]](https://elzero.org/python-assignments-lesson-from-1-to-10/)   |     Introduction & Variables     | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20001%20%5D%20To%20%5B%20010%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 011 ] To [ 018 ]](https://elzero.org/python-assignments-lesson-from-11-to-18/)  |         String & Methods         | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20011%20%5D%20To%20%5B%20018%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 019 ] To [ 020 ]](https://elzero.org/python-assignments-lesson-from-19-to-20/)  |  Numbers & Arithmetic Operators  | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20019%20%5D%20To%20%5B%20020%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 021 ] To [ 023 ]](https://elzero.org/python-assignments-lesson-from-21-to-23/)  |        List & Its Methods        | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20021%20%5D%20To%20%5B%20023%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 024 ] To [ 025 ]](https://elzero.org/python-assignments-lesson-from-24-to-25/)  |       Tuple & Its Methods        | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20024%20%5D%20To%20%5B%20025%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 026 ] To [ 032 ]](https://elzero.org/python-assignments-lesson-from-26-to-32/)  | Set & Dictionary & Their Methods | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20026%20%5D%20To%20%5B%20032%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 033 ] To [ 037 ]](https://elzero.org/python-assignments-lesson-from-33-to-37/)  |   Operators & Type Conversion    | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20033%20%5D%20To%20%5B%20037%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 038 ] To [ 040 ]](https://elzero.org/python-assignments-lesson-from-38-to-40/)  |      User Input & Practice       | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20038%20%5D%20To%20%5B%20040%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 041 ] To [ 046 ]](https://elzero.org/python-assignments-lesson-from-41-to-46/)  |           Control Flow           | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20041%20%5D%20To%20%5B%20046%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 047 ] To [ 050 ]](https://elzero.org/python-assignments-lesson-from-47-to-50/)  |      While Loop & Training       | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20047%20%5D%20To%20%5B%20050%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 051 ] To [ 055 ]](https://elzero.org/python-assignments-lesson-from-51-to-55/)  |       For Loop & Training        | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20051%20%5D%20To%20%5B%20055%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 056 ] To [ 059 ]](https://elzero.org/python-assignments-lesson-from-56-to-59/)  |            Functions             | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20056%20%5D%20To%20%5B%20059%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 060 ] To [ 064 ]](https://elzero.org/python-assignments-lesson-from-60-to-64/)  |   Packing & Recursion & Lambda   | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20060%20%5D%20To%20%5B%20064%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 065 ] To [ 068 ]](https://elzero.org/python-assignments-lesson-from-65-to-68/)  |          Files Handling          | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20065%20%5D%20To%20%5B%20068%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 069 ] To [ 071 ]](https://elzero.org/python-assignments-lesson-from-69-to-71/)  |        Built-In Functions        | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20069%20%5D%20To%20%5B%20071%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 072 ] To [ 075 ]](https://elzero.org/python-assignments-lesson-from-72-to-75/)  |      Map & Filter & Reduce       |  [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20072%5D%20To%20%5B%20075%20%5D)   |
+| `Solved` |  [Assignments For Lessons From [ 076 ] To [ 078 ]](https://elzero.org/python-assignments-lesson-from-76-to-78/)  |        Modules & Packages        | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20076%20%5D%20To%20%5B%20078%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 079 ] To [ 080 ]](https://elzero.org/python-assignments-lesson-from-79-to-80/)  |           Date & Time            | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20079%20%5D%20To%20%5B%20080%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 081 ] To [ 085 ]](https://elzero.org/python-assignments-lesson-from-81-to-85/)  |     Generators & Decorators      | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20081%20%5D%20To%20%5B%20085%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 086 ] To [ 089 ]](https://elzero.org/python-assignments-lesson-from-86-to-89/)  |      Collection Of Modules       | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20086%20%5D%20To%20%5B%20089%20%5D) |
+| `Solved` |  [Assignments For Lessons From [ 090 ] To [ 094 ]](https://elzero.org/python-assignments-lesson-from-90-to-94/)  |    Error Handling & Debugging    | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20090%20%5D%20To%20%5B%20094%20%5D) |
+| `Solved` | [Assignments For Lessons From [ 095 ] To [ 102 ]](https://elzero.org/python-assignments-lesson-from-95-to-102/)  |       Regular Expressions        | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20095%20%5D%20To%20%5B%20102%20%5D) |
+| `Solved` | [Assignments For Lessons From [ 103 ] To [ 116 ]](https://elzero.org/python-assignments-lesson-from-103-to-116/) |   Object Oriented Programming    | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20103%20%5D%20To%20%5B%20116%20%5D) |
+| `Solved` | [Assignments For Lessons From [ 117 ] To [ 127 ]](https://elzero.org/python-assignments-lesson-from-117-to-127/) |         SQLite Database          | [Code Link](https://github.com/PhilopaterHany/Python-Course/tree/main/Assignments/Assignments%20From%20%5B%20117%20%5D%20To%20%5B%20127%20%5D) |
 
 ---
 
