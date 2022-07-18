@@ -1,4 +1,6 @@
-![Python Course](https://i.ibb.co/ggSVcwm/python.png)
+<p align="center">
+  <img src="https://i.ibb.co/ggSVcwm/python.png" alt="Python Course" />
+</p>
 
 # Python Course From [Elzero Web School](https://elzero.org/)
 
@@ -284,7 +286,7 @@
 
 ### Week 15
 
--   `Watched` - 117 => [Database - Part 01 - Introduction](hhttps://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/117%20-%20Database%20-%20Part%2001%20-%20Introduction.py)
+-   `Watched` - 117 => [Database - Part 01 - Introduction](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/117%20-%20Database%20-%20Part%2001%20-%20Introduction.py)
 
 -   `Watched` - 118 => [Database - Part 02 - SQLite - Create Database & Connect](https://github.com/PhilopaterHany/Python-Course/blob/main/Lessons/Week%2015/118%20-%20Database%20-%20Part%2002%20-%20SQLite%20-%20Create%20Database%20%26%20Connect.py)
 
