@@ -6,7 +6,7 @@
 import sqlite3
 
 # Create Database And Connect
-db = sqlite3.connect("app.db")
+db = sqlite3.connect("Lessons/Week 15/app.db")
 
 # Setting Up The Cursor
 cr = db.cursor()
@@ -16,7 +16,7 @@ def commit_and_close():
     """Commit Changes and Close Connection To Database"""
     db.commit()  # Save (Commit) Changes
     db.close()  # Close Database
-    print("Connection To Database Is Closed")
+    print("Connection To Database Has Been Closed.")
 
 
 # My User ID
@@ -26,12 +26,11 @@ uid = 2
 input_message = """
 What Do You Want To Do ?
 "s" => Show All Skills
-"a" => Add New Skill
+"a" => Add A New Skill
 "d" => Delete A Skill
 "u" => Update Skill Progress
 "q" => Quit The App
-Choose Option:
-"""
+Choose Option: """
 
 # Input Option Choose
 user_input = input(input_message).strip().lower()
@@ -47,21 +46,23 @@ def show_skills():
     if len(results) > 0:
         print("Showing Skills With Progress: ")
     for row in results:
-        print(f"Skill => {row[0]},", end=" ")
-        print(f"Progress => {row[1]}%")
+        print(f"{row[0]} => {row[1]}%")
+        print("=" * 50)  # Separator
     commit_and_close()
 
 
 def add_skill():
     sk = input("Write Skill Name: ").strip().capitalize()
-    prog = input("Write Skill Progress ").strip()
+    prog = input("Write Skill Progress: ").strip()
     cr.execute(f"insert into skills(name, progress, user_id) values('{sk}', '{prog}', '{uid}')")
+    print(f"\"{sk}\" Skill Has Been Added Successfully With Progress {prog}%.")
     commit_and_close()
 
 
 def delete_skill():
     sk = input("Write Skill Name: ").strip().capitalize()
     cr.execute(f"delete from skills where name = '{sk}' and user_id = '{uid}'")
+    print(f"\"{sk}\" Skill Has Been Deleted Successfully.")
     commit_and_close()
 
 
@@ -82,7 +83,7 @@ if user_input in commands_list:
     elif user_input == "u":
         update_skill()
     else:
-        print("App Is Closed.")
+        print("Application Has Been Closed.")
         commit_and_close()
 else:
     print(f"Sorry This Command \"{user_input}\" Is Not Found")

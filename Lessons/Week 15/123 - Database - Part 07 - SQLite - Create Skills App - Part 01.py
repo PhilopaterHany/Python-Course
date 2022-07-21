@@ -6,12 +6,11 @@
 input_message = """
 What Do You Want To Do ?
 "s" => Show All Skills
-"a" => Add New Skill
+"a" => Add A New Skill
 "d" => Delete A Skill
 "u" => Update Skill Progress
 "q" => Quit The App
-Choose Option:
-"""
+Choose An Option: """
 
 # Input Option Choose
 user_input = input(input_message).strip().lower()
@@ -48,6 +47,6 @@ if user_input in commands_list:
     elif user_input == "u":
         update_skill()
     else:
-        print("App Is Closed.")
+        print("Application Has Been Closed.")
 else:
-    print(f"Sorry This Command \"{user_input}\" Is Not Found")
+    print(f"Sorry, This Command \"{user_input}\" Is Not Found.")

@@ -13,7 +13,7 @@
 # -----------------------------------------------------------
 
 class Member:
-    not_allowed_names = ["Hell", "Shit", "Baloot"]
+    not_allowed_names = ["Hell", "Shit", "Damn"]
     users_num = 0
 
     @classmethod
@@ -58,7 +58,7 @@ print(Member.users_num)
 member_one = Member("Osama", "Mohamed", "Elsayed", "Male")
 member_two = Member("Ahmed", "Ali", "Mahmoud", "Male")
 member_three = Member("Mona", "Ali", "Mahmoud", "Female")
-member_four = Member("Shit", "Hell", "Metal", "DD")
+member_four = Member("Shit", "Hell", "Metal", "Damn")
 
 print(Member.users_num)
 print(member_four.delete_user())

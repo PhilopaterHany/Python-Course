@@ -11,7 +11,7 @@
 import sqlite3
 
 # Create Database And Connect
-db = sqlite3.connect("app.db")
+db = sqlite3.connect("Lessons/Week 15/app.db")
 
 # Setting Up The Cursor
 cr = db.cursor()
@@ -20,18 +20,16 @@ cr = db.cursor()
 # cr.execute("create table if not exists users (user_id integer, name text)")
 # cr.execute("create table if not exists skills (name text, progress integer, user_id integer)")
 
-# Inserting Data
-# cr.execute("insert into users(user_id, name) values(1, 'Ahmed')")
-# cr.execute("insert into users(user_id, name) values(2, 'Sayed')")
-# cr.execute("insert into users(user_id, name) values(3, 'Osama')")
+# Inserting Data (Commented Because We Have Already Inserted Data In The Previous Lesson)
+# my_list = ["Philopater", "Osama", "Mohamed", "Ali", "Farah", "Sarah", "Mona"]
+# for key, user in enumerate(my_list):
+#     cr.execute(f"insert into users(user_id, name) values({key + 1}, '{user}')")
 
-# Fetch Data
-cr.execute("select * from skills")
+# Fetching & Printing Data
+cr.execute("select * from users")
 
-print(cr.fetchone())
-print(cr.fetchone())
-print(cr.fetchone())
-print(cr.fetchone())
+for user in cr.fetchall():
+    print(user)
 
 # print(cr.fetchall())
 # print(cr.fetchmany(2))

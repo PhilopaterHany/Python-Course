@@ -14,7 +14,7 @@ class Skill:
         self.skills = ["Html", "Css", "Js"]
 
     def __str__(self):
-        return f"This is My Skills => {self.skills}"
+        return f"These Are My Skills => {self.skills}"
 
     def __len__(self):
         return len(self.skills)

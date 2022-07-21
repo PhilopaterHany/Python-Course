@@ -16,11 +16,11 @@ class Member:
         self.__name = new_name
 
 
-one = Member("Ahmed")
+one = Member("Mohamed")
 
-one._Member__name = "Sayed"
+one._Member__name = "Osama"
 print(one._Member__name)
 
 print(one.get_name())
-one.set_name('Abbas')
+one.set_name('Philopater')
 print(one.get_name())

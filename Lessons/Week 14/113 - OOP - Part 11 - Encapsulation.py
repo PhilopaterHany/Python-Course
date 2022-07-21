@@ -23,10 +23,12 @@ class Member:
         self.name = name  # Public
 
 
-one = Member("Ahmed")
+one = Member("Philopater")
 print(one.name)
-one.name = "Sayed"
+one.name = "Osama"
 print(one.name)
+
+print("=" * 50)  # Separator
 
 
 class Member:
@@ -34,10 +36,12 @@ class Member:
         self._name = name  # Protected
 
 
-one = Member("Ahmed")
+one = Member("Philopater")
 print(one._name)
-one._name = "Sayed"
+one._name = "Osama"
 print(one._name)
+
+print("=" * 50)  # Separator
 
 
 class Member:
@@ -48,7 +52,7 @@ class Member:
         return f"Hello {self.__name}"
 
 
-one = Member("Ahmed")
+one = Member("Philopater")
 # print(one.__name)
 print(one.say_hello())
 print(one._Member__name)

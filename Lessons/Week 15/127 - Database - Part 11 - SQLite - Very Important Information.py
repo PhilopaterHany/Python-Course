@@ -6,7 +6,7 @@
 import sqlite3
 
 # Create Database And Connect
-db = sqlite3.connect("app.db")
+db = sqlite3.connect("Lessons/Week 15/app.db")
 
 # Setting Up The Cursor
 cr = db.cursor()
@@ -25,9 +25,10 @@ results = cr.fetchall()
 
 # Loop On Results
 for row in results:
-    print(f"Skill Name => {row[0]},", end=" ")
-    print(f"Skill Progress => {row[1]},", end=" ")
+    print(f"Skill Name => {row[0]}")
+    print(f"Skill Progress => {row[1]}")
     print(f"User ID => {row[2]}")
+    print("=" * 50)  # Separator
 
 # Save (Commit) Changes
 db.commit()

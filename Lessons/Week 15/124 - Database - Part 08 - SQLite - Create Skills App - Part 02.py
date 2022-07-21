@@ -6,19 +6,22 @@
 import sqlite3
 
 # Create Database And Connect
-db = sqlite3.connect("app.db")
+db = sqlite3.connect("Lessons/Week 15/app.db")
 
 # Setting Up The Cursor
 cr = db.cursor()
 
 # Commit and Close Method
+
+
 def commit_and_close():
     # Save (Commit) Changes
     db.commit()
 
     # Close Database
     db.close()
-    print("Connection To Database Is Closed")
+
+    print("Connection To Database Has Been Closed.")
 
 
 # My User ID
@@ -28,12 +31,11 @@ uid = 2
 input_message = """
 What Do You Want To Do ?
 "s" => Show All Skills
-"a" => Add New Skill
+"a" => Add A New Skill
 "d" => Delete A Skill
 "u" => Update Skill Progress
 "q" => Quit The App
-Choose Option:
-"""
+Choose Option: """
 
 # Input Option Choose
 user_input = input(input_message).strip().lower()
@@ -49,14 +51,16 @@ def show_skills():
 
 def add_skill():
     sk = input("Write Skill Name: ").strip().capitalize()
-    prog = input("Write Skill Progress ").strip()
+    prog = input("Write Skill Progress: ").strip()
     cr.execute(f"insert into skills(name, progress, user_id) values('{sk}', '{prog}', '{uid}')")
+    print(f"{sk} Skill Is Added Successfully With Progress {prog}%.")
     commit_and_close()
 
 
 def delete_skill():
     sk = input("Write Skill Name: ").strip().capitalize()
     cr.execute(f"delete from skills where name = '{sk}' and user_id = '{uid}'")
+    print(f"{sk} Skill Is Deleted Successfully!")
     commit_and_close()
 
 
@@ -77,6 +81,6 @@ if user_input in commands_list:
     elif user_input == "u":
         update_skill()
     else:
-        print("App Is Closed.")
+        print("Application Has Been Closed.")
 else:
-    print(f"Sorry This Command \"{user_input}\" Is Not Found")
+    print(f"Sorry, This Command \"{user_input}\" Is Not Found.")

@@ -15,11 +15,13 @@ class Member:
         return self.age * 365
 
 
-one = Member("Ahmed", 40)
+one = Member("Philopater", 17)
 
 print(one.name)
 print(one.age)
+
+print("=" * 50)  # Separator
+
 print(one.say_hello())
 # print(one.age_in_days())
-
 print(one.age_in_days)
